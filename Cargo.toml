@@ -6,6 +6,7 @@ repository = "https://github.com/ISibboI/multiset"
 description = "A hash multiset implementation."
 keywords = ["multiset", "data-structure", "collection", "count", "hash"]
 license = "GPL-3.0"
+edition = "2015"
 
 [features]
 serde = ["dep:serde"]
